@@ -2,7 +2,7 @@
    <img width="180" src=".github/assets/icon-readme@2x.png" alt="logo">
 </p>
 <p align="center">
-   <strong>Today 🙋🏼‍♂️ Learned</strong><BR>
+   <strong>Level Up</strong><BR>
    🧠 Just day-to-day learnings.
 </p>
 <p align="center">
