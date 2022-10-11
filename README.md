@@ -12,4 +12,4 @@
 </p>
 
 ## October 2022
-- Use light & dark mode images in Github readme
+- [Use light & dark mode images in Github readme](/github/light-dark-mode-images).
