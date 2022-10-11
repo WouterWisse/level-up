@@ -1,5 +1,5 @@
 <p align="center">
-   <img width="180" src=".github/assets/icon-readme@2x.png" alt="logo">
+   <img width="180" src=".github/assets/icon-readme@2x.png" alt="Level-Up">
 </p>
 <p align="center">
    <strong>Level Up</strong><BR>
