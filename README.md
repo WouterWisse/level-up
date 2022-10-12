@@ -16,3 +16,6 @@
 
 ## Github Actions
 - [Xcode test results in Github Actions](/github/actions-xcode-test-results)
+
+## Xcode
+- [Localize app display name](/xcode/localize-app-name)
