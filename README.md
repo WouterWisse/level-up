@@ -11,5 +11,5 @@
    </a>
 </p>
 
-## October 2022
+## Github
 - [Use light & dark mode images in Github readme](/github/light-dark-mode-images)
