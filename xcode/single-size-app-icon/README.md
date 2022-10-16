@@ -1,7 +1,7 @@
 ### Xcode - Single size app icon
-Xcode 14 introduced a way to create your app icon with just one `1024x1024` image. Just select `Single Size` in the attributes panel of your `AppIcon` file.<br /><br />
+Xcode 14 introduced a way to include an app icon with just one `1024 x 1024` image. Just select `Single Size` in the attributes panel of the `AppIcon` file in the Asset Catalog.<br />
 
-Note: For me it only worked when my Asset Catalog containing my iconset was placed in the root of my project. I had it in `Resources/…` before, but that resulted in validation errors when uploading the app to the AppStore. Also make sure the image does not contain an alpha layer.
+Note: Make sure the Asset Catalog containing the AppIcon is in the root of the Xcode project. It does not seem to work when it's placed in a subfolder like `<Root>/Resources/MyAssetCatalog/...`. This results in validation errors when uploading the app to the AppStore. Also make sure the image does not contain an alpha layer.
 
 <div align="center">
    <img src="assets/validation-errors.png">
