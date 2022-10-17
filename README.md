@@ -12,14 +12,14 @@
 </p>
 
 ## Github
-- [Use light & dark mode images in Github readme](/github/light-dark-mode-images)
+- [Use specific light & dark mode images in Github readme](/github/light-dark-mode-images)
 
 ## Github Actions
 - [Xcode test results in Github Actions](/github/actions-xcode-test-results)
 
 ## Xcode
-- [Localize app display name](/xcode/localize-app-name)
-- [Single size app icon](/xcode/single-size-app-icon)
+- [Localize an app's display name](/xcode/localize-app-name)
+- [Use a single size app icon in the Asset Catalog](/xcode/single-size-app-icon)
 
 ## SwiftUI
-- [Masked content](/xcode/localize-app-name)
+- [Mask content with simple view to create a nice effect](/swiftui/simple-content-mask-view)
