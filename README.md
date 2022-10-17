@@ -3,7 +3,7 @@
 </p>
 <p align="center">
    <strong>Level Up</strong><BR>
-   🧠 Just day-to-day learnings.
+   💡 Just learnings & ideas
 </p>
 <p align="center">
    <a href="https://www.twitter.com/wouterwisse" target="_blank">
