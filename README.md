@@ -20,3 +20,6 @@
 ## Xcode
 - [Localize app display name](/xcode/localize-app-name)
 - [Single size app icon](/xcode/single-size-app-icon)
+
+## SwiftUI
+- [Masked content](/xcode/localize-app-name)
